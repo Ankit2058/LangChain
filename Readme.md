@@ -1,1 +1,1 @@
-#This project is an mean to explore the world of ai application.
+# This project is a mean to explore the world of ai application.
